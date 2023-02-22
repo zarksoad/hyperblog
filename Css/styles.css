@@ -4,6 +4,15 @@ body{
  font-family: "Arial";
 } 
 
+#cabecera{
+    background-color: azure;
+    margin: auto; 
+    box-shadow: 20px 2px 2 0 rgb(red, green, blue);
+
+}
+
+
+
 #container{
     width: 70%;
     padding: 1em;
